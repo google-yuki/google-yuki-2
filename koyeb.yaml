@@ -1,6 +1,6 @@
 name: math
 services:
-  - name: math
+  - name: google-yuki-2
     type: web
     env: python
     region: Oregon
