@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-stststkkk-a-b-c-D-10101080-cookie
+    name: google-stststkkk-a-b-c-D-e-f-g-h-i-j-k-l-m-n-o-proxy-q-r-s-t-u-v-w-x-y-z10101080-cookie
     env: python
     region: Oregon
     plan: free
