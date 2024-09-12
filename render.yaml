@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-10101080-cookie
+    name: google-stststkkk-a-b-c-D-10101080-cookie
     env: python
     region: Oregon
     plan: free
